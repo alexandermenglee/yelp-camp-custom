@@ -1,0 +1,30 @@
+.navbar{
+	border-radius: 0; 
+	background-color:#121212;
+	border: none;
+	margin-bottom: 0px; 
+}
+
+.navbar-default .navbar-brand {
+  color: #ffffff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #ffffff;
+}
+
+.btn-primary{
+	background-color: #121212;
+	border: #ffffff;
+}
+
+.btn-primary:hover{
+	background-color: #D7D7DB;
+	color: #121212;
+}
+
+.add-margin{
+	margin-top: 20px;
+}
+
+
